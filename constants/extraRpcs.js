@@ -6854,6 +6854,7 @@ export const extraRpcs = {
       "https://evmrpc-testnet.0g.ai",
       "https://0g-json-rpc-public.originstake.com",
       "https://og-testnet-jsonrpc.blockhub.id",
+      "https://0g.bangcode.id",
       {
         url: "https://0g-json-rpc-public.originstake.com",
         tracking: "none",
